@@ -4,7 +4,7 @@
 
 ## Description
 
-+ Developed online calculator with **Full-Stack** frameworks and deployed with **Docker **on **Aliyun Cloud Platform**.
++ Developed online calculator with **Full-Stack** frameworks and deployed with **Docker** on **Aliyun Cloud Platform**.
 + Integrated **React** framework and produced the **Ajax**-based front-end with **Bootstrap, HTML/CSS/JavaScript** to write the front-end.
 + Integrated **Django** framework and implemented the code by **Python** to write the back-end, returning the data in **JSON**-format to the front-end.
 
