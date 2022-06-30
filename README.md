@@ -6,6 +6,7 @@
 
 + Developed online calculator with **Full-Stack** frameworks and deployed with **Docker** on **Aliyun Cloud Platform**.
 + Integrated **React** framework and produced the **Ajax**-based front-end with **Bootstrap, HTML/CSS/JavaScript** to write the front-end.
++ Adopted **Redux** to manage state and data between different React components in the front-end.
 + Integrated **Django** framework and implemented the code by **Python** to write the back-end, returning the data in **JSON**-format to the front-end.
 
 ## Get Started
@@ -54,6 +55,7 @@ Guide:
 
 + 实现了该网页计算器的全栈开发。同时该网页计算器部署在云端，存储在云端的Docker容器中，可以快速地迁移到不同的云平台上，目前存储在阿里云。
 + 前端使用了React框架，Bootstrap库，HTML/CSS/Javascript进行开发，同时使用了Ajax交互数据。
++ 前端使用了Redux在React框架不同组件之间传递信息。
 + 后端使用了Django框架和Python进行开发，将数据以JSON格式传回前端。
 
 ## 功能介绍
